@@ -1,0 +1,24 @@
+# Python GUI Chatbot Requirements
+# All dependencies are built into Python's standard library
+
+# Core GUI framework (built-in)
+# tkinter - included with Python
+
+# Threading support (built-in)
+# threading - included with Python
+
+# Date/time handling (built-in)
+# datetime - included with Python
+
+# Type hints (built-in for Python 3.5+)
+# typing - included with Python
+
+# Queue for thread-safe communication (built-in)
+# queue - included with Python
+
+# Time utilities (built-in)
+# time - included with Python
+
+# Note: This project uses only Python standard library modules
+# No external dependencies required!
+# Minimum Python version: 3.6+ (for f-strings and type hints)
